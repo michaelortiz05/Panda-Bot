@@ -4,7 +4,7 @@ const fs = require('fs');
 
 // Discord modules
 const Discord = require('discord.js');
-const { token, prefix } = require('./Auth/bot_token.json');
+const { token, prefix } = require('./Auth/config.json');
 
 // Load bot and commands
 const client = new Discord.Client();
