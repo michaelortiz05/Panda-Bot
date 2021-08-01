@@ -1,0 +1,18 @@
+{
+  "name": "panda-bot",
+  "version": "1.0.0",
+  "description": "Discord data visualization utility bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "d3": "^7.0.0",
+    "d3-cloud": "^1.2.5",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.3"
+  }
+}
