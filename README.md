@@ -8,8 +8,8 @@ To use:
 4. Create "config.json" within "Auth"
 5. Initialize json with the following fields:
    {
-    "token" : "<your-token-here>"
-    "prefix" : "<your-prefix-here>"
+    "token" : "your-token-here"
+    "prefix" : "!"
    }
 6. Add bot to server
 7. Run bot.js: "node bot.js"
